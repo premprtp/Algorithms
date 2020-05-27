@@ -1,4 +1,4 @@
-#Compare the triplets | [Problem](https://www.hackerrank.com/challenges/plus-minus/problem)
+#Plus Minus | [Problem](https://www.hackerrank.com/challenges/plus-minus/problem)
 
 #!/bin/python3
 
