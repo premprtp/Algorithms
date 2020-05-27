@@ -1,4 +1,4 @@
-#Compare the triplets | [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+#Diagonal Difference | [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 
 #!/bin/python3
 
