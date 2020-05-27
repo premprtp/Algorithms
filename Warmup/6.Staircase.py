@@ -1,4 +1,4 @@
-#Plus Minus | [Problem](https://www.hackerrank.com/challenges/staircase/problem)
+#Staircase | [Problem](https://www.hackerrank.com/challenges/staircase/problem)
 
 #!/bin/python3
 
